@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(9,9): error C3646: 'data': unknown override specifier
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(31,14): error C2061: syntax error: identifier 'string'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\main.cpp(16,17): error C2660: 'Queue::insert': function does not take 1 arguments
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(31,7): message : see declaration of 'Queue::insert'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\main.cpp(40,21): warning C4129: 'q': unrecognized character escape sequence
+  Source.cpp
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(9,9): error C3646: 'data': unknown override specifier
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(31,14): error C2061: syntax error: identifier 'string'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(11,1): error C2511: 'void Queue::insert(std::string &)': overloaded member function not found in 'Queue'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(15): message : see declaration of 'Queue'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(15,14): error C2039: 'data': is not a member of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(7): message : see declaration of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(17,26): error C2597: illegal reference to non-static member 'Queue::front'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(17,26): error C3867: 'Queue::front': non-standard syntax; use '&' to create a pointer to member
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(17,26): error C2568: '=': unable to resolve function overload
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(19,22): error C2597: illegal reference to non-static member 'Queue::front'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(19,22): error C3867: 'Queue::front': non-standard syntax; use '&' to create a pointer to member
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(20,9): error C2597: illegal reference to non-static member 'Queue::front'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(18): message : see declaration of 'Queue::front'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(21,9): error C2597: illegal reference to non-static member 'Queue::back'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(19): message : see declaration of 'Queue::back'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(25,9): error C2597: illegal reference to non-static member 'Queue::back'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(19): message : see declaration of 'Queue::back'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(40,62): error C2039: 'data': is not a member of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(7): message : see declaration of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(46,62): error C2039: 'data': is not a member of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(7): message : see declaration of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Source.cpp(58,23): error C2039: 'data': is not a member of 'QNode'
+C:\Users\joe9n\Desktop\Hicks Lab 7\test\test\Header.h(7): message : see declaration of 'QNode'
+  Generating Code...

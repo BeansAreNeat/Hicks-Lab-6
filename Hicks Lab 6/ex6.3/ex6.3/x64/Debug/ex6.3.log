@@ -1,0 +1,8 @@
+﻿  6_3.cpp
+  main.cpp
+C:\Users\joe9n\OneDrive\Desktop\Hicks Lab 6\ex6.3\ex6.3\main.cpp(49,21): warning C4129: 'q': unrecognized character escape sequence
+C:\Users\joe9n\OneDrive\Desktop\Hicks Lab 6\ex6.3\ex6.3\main.cpp(51,21): warning C4129: 'q': unrecognized character escape sequence
+C:\Users\joe9n\OneDrive\Desktop\Hicks Lab 6\ex6.3\ex6.3\main.cpp(53,21): warning C4129: 'q': unrecognized character escape sequence
+C:\Users\joe9n\OneDrive\Desktop\Hicks Lab 6\ex6.3\ex6.3\main.cpp(55,21): warning C4129: 'q': unrecognized character escape sequence
+  Generating Code...
+  ex6.3.vcxproj -> C:\Users\joe9n\OneDrive\Desktop\Hicks Lab 6\ex6.3\x64\Debug\ex6.3.exe

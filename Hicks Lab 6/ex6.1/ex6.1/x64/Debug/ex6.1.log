@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(56,4): error C2562: 'Queue::showfront': 'void' function returning a value
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(52): message : see declaration of 'Queue::showfront'
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(61,4): error C2561: 'Queue::back': function must return a value
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(59): message : see declaration of 'Queue::back'
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\main.cpp(38,21): warning C4129: 'q': unrecognized character escape sequence
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\main.cpp(38,40): error C2248: 'Queue::front': cannot access private member declared in class 'Queue'
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(14): message : see declaration of 'Queue::front'
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\queue.h(12): message : see declaration of 'Queue'
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\main.cpp(38,40): error C2064: term does not evaluate to a function taking 0 arguments
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\main.cpp(40,21): warning C4129: 'q': unrecognized character escape sequence
+C:\Users\joe9n\Desktop\Hicks Lab 6\ex6.1\ex6.1\main.cpp(42,21): warning C4129: 'q': unrecognized character escape sequence
